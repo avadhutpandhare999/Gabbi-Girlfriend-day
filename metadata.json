@@ -1,0 +1,6 @@
+{
+  "name": "Our Story - Happy Girlfriend's Day",
+  "description": "An interactive romantic web application for Gabbi with memories, timeline, reasons I love you, letters, playlist, and interactive star constellations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
